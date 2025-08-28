@@ -33,6 +33,8 @@ Interactive features like filters and drill-down options allow HR managers to ex
 # DASHBOARD:
 <img width="1439" height="808" alt="HR_ANALYTICS_DASHBOARD" src="https://github.com/user-attachments/assets/6ad2e71c-03c3-4aca-980a-7d8b9e5b80ca" />
 
+# DASHBOARD VIDEO:
+![Demo Video]("C:\Users\USER\Desktop\DASHBORD_VIDEO.mp4")
 
 
 
