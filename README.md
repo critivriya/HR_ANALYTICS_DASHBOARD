@@ -33,8 +33,26 @@ Interactive features like filters and drill-down options allow HR managers to ex
 # DASHBOARD:
 <img width="1439" height="808" alt="HR_ANALYTICS_DASHBOARD" src="https://github.com/user-attachments/assets/6ad2e71c-03c3-4aca-980a-7d8b9e5b80ca" />
 
-# Dashboard Video
-[▶️ Watch Dashboard Video](https://github.com/critivriya/HR_ANALYTICS_DASHBOARD/blob/main/DASHBORD_VIDEO.mp4)
+## Dashboard Overview
+The **HR Analytics Dashboard** helps HR professionals understand employee data and make better decisions.  
+It includes visuals and key metrics like:  
+- Employee turnover (attrition rate)  
+- Total headcount and active employees  
+- Recruitment details (time-to-fill, cost-per-hire)  
+- Employee performance, training, and career growth  
+
+The dashboard also has interactive filters (by department, location, job level, etc.), making it easy to drill down and analyze specific groups of employees.  
+
+---
+
+## Conclusion
+From the HR Analytics Dashboard, we found that:  
+- **Low job satisfaction** is strongly linked to **high attrition**  
+- **Sales** and **R&D departments** have the highest employee loss  
+- **Younger employees** are more likely to leave  
+- **Education field** and **job role** also affect attrition  
+
+This dashboard makes it easier to track attrition and understand employee behavior, helping HR teams take data-driven actions.  
 
 
 
