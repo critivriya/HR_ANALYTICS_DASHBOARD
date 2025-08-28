@@ -14,4 +14,10 @@ Interactive features like filters and drill-down options allow HR managers to ex
 - **Power BI** – for building dashboard and visualizations  
 - **Statistics** – for calculating attrition %, averages, and other measures  
 
+## Steps Followed
+- Collected employee dataset  
+- Cleaned dataset (removed duplicates, fixed formatting, handled null values)  
+- Imported data into Power BI  
+- Created calculations like Attrition %, Active Employees, Avg Monthly Income  
+- Built multiple visuals (charts, tables, KPIs)  
 
