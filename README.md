@@ -8,3 +8,9 @@ Attrition trends and overall attrition rate.
 Employee distribution by gender, age group, education field, and job satisfaction level.
 Department-wise and role-wise analysis to identify where attrition is highest.
 Interactive features like filters and drill-down options allow HR managers to explore the data in detail and focus on specific employee groups. This makes it easier to track patterns, compare performance, and plan strategies to reduce attrition and improve employee engagement.
+
+# Tools Used
+Excel – for data cleaning.
+Power BI – for building dashboard and visualizations.
+Statistics – for calculating attrition %, averages, and other measures.
+
