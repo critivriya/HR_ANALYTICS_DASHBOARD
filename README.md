@@ -21,3 +21,11 @@ Interactive features like filters and drill-down options allow HR managers to ex
 - Created calculations like Attrition %, Active Employees, Avg Monthly Income  
 - Built multiple visuals (charts, tables, KPIs)  
 
+## Key Insights
+- **Total employees:** 398 | **Attrition:** 58 (15%) | **Active employees:** 340 (Education - Master’s Degree)  
+- **Sales department** shows the highest attrition (55%)  
+- Most employees are in the **age group 34–37 years**  
+- **Life Sciences** field has the highest attrition count  
+- **Sales Executive** and **Research Scientist** roles have higher attrition compared to others  
+- Employees with **Job Satisfaction level 2 (low)** have the highest attrition (32.76%)  
+
