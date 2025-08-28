@@ -28,4 +28,5 @@ Interactive features like filters and drill-down options allow HR managers to ex
 - **Life Sciences** field has the highest attrition count  
 - **Sales Executive** and **Research Scientist** roles have higher attrition compared to others  
 - Employees with **Job Satisfaction level 2 (low)** have the highest attrition (32.76%)  
+- Average monthly income is highest for **Managers and Directors**, lowest for Sales roles.
 
